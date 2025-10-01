@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN N15 [get_ports {PL_KEY[0]}]
+set_property PACKAGE_PIN N16 [get_ports {PL_KEY[1]}]
+set_property PACKAGE_PIN T17 [get_ports {PL_KEY[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {PL_KEY[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {PL_KEY[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {PL_KEY[0]}]
